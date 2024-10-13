@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\FLNT\\ApiTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71ABA7D0-FEBB-4019-B8F7-EB144BD71FF4}|ApiTest\\ApiTest.csproj|c:\\git\\flnt\\apitest\\apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71ABA7D0-FEBB-4019-B8F7-EB144BD71FF4}|ApiTest\\ApiTest.csproj|solutionrelative:apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\FLNT\\ApiTest\\ApiTest\\Program.cs",
+              "RelativeDocumentMoniker": "ApiTest\\Program.cs",
+              "ToolTip": "C:\\git\\FLNT\\ApiTest\\ApiTest\\Program.cs",
+              "RelativeToolTip": "ApiTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:54:20.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
